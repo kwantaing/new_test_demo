@@ -10,7 +10,7 @@ const coffeesComponent = () => {
       <SingularComp name="Bistro"></SingularComp>
 
       <SingularComp name="Bistro"></SingularComp>
-
+        <h1>new changes</h1>
       <SingularComp name="Bistro"></SingularComp>
     </div>
   )
